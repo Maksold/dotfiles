@@ -1,9 +1,10 @@
-cask_args appdir: "/Applications"
+tap "ddev/ddev"
 
 brew "ddev/ddev/ddev"
 brew "ncdu"
 brew "wget"
 
+cask_args appdir: "/Applications"
 cask "1password"
 cask "1password-cli"
 cask "4k-video-downloader+"
