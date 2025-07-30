@@ -1,8 +1,10 @@
 tap "ddev/ddev"
 
 brew "ddev/ddev/ddev"
+brew "ansible"
 brew "ncdu"
 brew "wget"
+brew "sshpass"
 
 cask_args appdir: "/Applications"
 cask "1password"
@@ -36,7 +38,6 @@ cask "imageoptim"
 cask "inkscape"
 cask "jetbrains-toolbox"
 cask "kaleidoscope"
-cask "languagetool"
 cask "languagetool-desktop"
 cask "libreoffice"
 cask "little-snitch"
@@ -73,8 +74,10 @@ cask "vivaldi"
 cask "vlc"
 cask "whatsapp"
 cask "yandex"
-cask "yandex-disk"
+#cask "yandex-disk"
 cask "zoom"
 
 # Mac App Store
 #mas "Streisand", id: 6450534064
+mas "Airmail", id: 918858936
+mas "Toggl Track", id: 1291898086
