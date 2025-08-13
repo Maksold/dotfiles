@@ -87,3 +87,4 @@ cask "zoom"
 #mas "Streisand", id: 6450534064
 mas "Airmail", id: 918858936
 mas "Toggl Track", id: 1291898086
+mas "Ping", id: 1532271726
